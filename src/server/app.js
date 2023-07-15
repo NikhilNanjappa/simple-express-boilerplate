@@ -30,7 +30,7 @@ app.use(setupLocals);
 setupNunjucks(app);
 
 // Routes
-app.get('/', async (req, res) => {
+app.get('/', (req, res) => {
   res.render('index', {});
 });
 
