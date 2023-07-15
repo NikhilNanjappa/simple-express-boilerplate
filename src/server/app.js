@@ -4,7 +4,6 @@ import cookieParser from 'cookie-parser';
 import helmet from 'helmet';
 import cors from 'cors';
 import csurf from 'csurf';
-import fs from 'fs';
 import path from 'path';
 const __dirname = path.resolve();
 
