@@ -1,9 +1,9 @@
 {
-  "name": "crs-compensator-ui",
-  "version": "1.1.0",
+  "name": "simple-express-boilerplate",
+  "version": "1.0.0",
   "type": "module",
-  "description": "compensation recovery service claim compensator ui",
-  "author": "colin.greenwood1@engineering.digital.dwp.gov.uk",
+  "description": "a simple express boilerplate",
+  "author": "kainikhil@gmail.com",
   "license": "ISC",
   "engines": {
     "node": "17.x"
